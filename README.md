@@ -33,7 +33,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu_nombre](https://www.linkedin.com/in/solange-aracely-romero-chac%C3%B3n-2ba7a8244/))
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]([https://www.instagram.com/tu_usuario](https://instagram.com/solange_4444?igshid=OGQ5ZDc2ODk2ZA==))
-[![Google](https://img.shields.io/badge/-Google-4285F4?style=flat&logo=google&logoColor=white)](romerosol884@gmail.com)
+[![Google](https://img.shields.io/badge/-Google-4285F4?style=flat&logo=google&logoColor=white)](mailto:romerosol884@gmail.com)
 
 ¡Gracias por visitar mi perfil! 😊
 
